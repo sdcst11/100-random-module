@@ -17,7 +17,8 @@ It NEEDS to be random, otherwise it is hackable.  This uses user generated rando
 
 
 Note: There is no autograder for this assignment.
-### 4 Tasks, 2 Problems
+### Note: For each assignment that you try, you must include a planning diagram, whether this be a flowchart, or just a written plan on paper.
+### Full credit for this extension is to complete 3 of the programs in this assignment
 
 ##### Task 1
 Number Guessing Game
@@ -28,11 +29,12 @@ Have the computer generate a random number from 1 to 100.  The players will try 
 Coin Toss
 Ask the player to choose heads or tails.
 Toss a coin to determine what the coin will be, and then tell the player if they were correct.
+Ask the user if they want to go again. If they decide to quit, tell them how many times they were correct and how many times they were incorrect.
 (2 points)
 
 ##### Task 3
 Rock Paper Scissors
-Create the classic "Rock, Paper Scissors Game"
+Create the classic "Rock, Paper Scissors Game".  It will keep playing until someone wins.
 (5 points)
 Extension:
 Play the classic "Rock Paper Scissors Lizard Spock" game
@@ -47,7 +49,8 @@ wisdom
 dexterity
 constitution
 charisma
-Create a character generator that generates a character's statistics
+Create a character generator that generates a character's statistics.
+Once they have generated the result and it has been displayed, ask the user if they want to create another character.
 (3 points)
 
 ##### Problem 1
